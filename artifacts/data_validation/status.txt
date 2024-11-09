@@ -22,3 +22,27 @@ Validation status for pH : True
 Validation status for sulphates : True
 Validation status for alcohol : True
 Validation status for quality : True
+Validation status for fixed acidity : True
+Validation status for volatile acidity : True
+Validation status for citric acid : True
+Validation status for residual sugar : True
+Validation status for chlorides : True
+Validation status for free sulfur dioxide : True
+Validation status for total sulfur dioxide : True
+Validation status for density : True
+Validation status for pH : True
+Validation status for sulphates : True
+Validation status for alcohol : True
+Validation status for quality : True
+Validation status for fixed acidity : True
+Validation status for volatile acidity : True
+Validation status for citric acid : True
+Validation status for residual sugar : True
+Validation status for chlorides : True
+Validation status for free sulfur dioxide : True
+Validation status for total sulfur dioxide : True
+Validation status for density : True
+Validation status for pH : True
+Validation status for sulphates : True
+Validation status for alcohol : True
+Validation status for quality : True
