@@ -1,5 +1,4 @@
-# End-To-End-ML-Project
-This is End to End ML Project from iNeuron course. Dataset: Wine Quality Dataset
+# End-to-end-ML-Project
 
 
 ## Workflows
@@ -74,7 +73,7 @@ Now open up your local host 0.0.0.0:8080
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 136566696263.dkr.ecr.us-east-1.amazonaws.com/mlproject
+    - Save the URI: 008104635469.dkr.ecr.us-east-1.amazonaws.com/mlproject
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -96,7 +95,7 @@ Now open up your local host 0.0.0.0:8080
 
 	sudo usermod -aG docker ubuntu
 
-	newgrp docker
+	 
 	
 # 6. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
@@ -114,3 +113,7 @@ Now open up your local host 0.0.0.0:8080
 
     ECR_REPOSITORY_NAME = simple-app
 
+
+
+
+ 
